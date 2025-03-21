@@ -1,0 +1,7 @@
+C:\Users\Diego\Desktop\Diego Ramos\Calcular_raiz_cuadrada\bin\Release\Calcular_raiz_cuadrada.exe.config
+C:\Users\Diego\Desktop\Diego Ramos\Calcular_raiz_cuadrada\bin\Release\Calcular_raiz_cuadrada.exe
+C:\Users\Diego\Desktop\Diego Ramos\Calcular_raiz_cuadrada\bin\Release\Calcular_raiz_cuadrada.pdb
+C:\Users\Diego\Desktop\Diego Ramos\Calcular_raiz_cuadrada\obj\Release\Calcular_raiz_cuadrada.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Diego Ramos\Calcular_raiz_cuadrada\obj\Release\Calcular_raiz_cuadrada.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Diego Ramos\Calcular_raiz_cuadrada\obj\Release\Calcular_raiz_cuadrada.exe
+C:\Users\Diego\Desktop\Diego Ramos\Calcular_raiz_cuadrada\obj\Release\Calcular_raiz_cuadrada.pdb
